@@ -2,6 +2,7 @@ from tqdm import tqdm
 import requests
 import cgi
 import sys
+import os
 # the url of file you want to download, passed from command line arguments
 url = sys.argv[1]
 # read 1024 bytes every time 
