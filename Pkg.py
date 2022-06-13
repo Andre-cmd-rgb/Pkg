@@ -1,4 +1,3 @@
-from importlib.resources import Package
 import os
 
 while True:
